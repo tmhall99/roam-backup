@@ -4,7 +4,7 @@ Automate backing up JSON copies of your [Roam Research](https://roamresearch.com
 
 Backups will be generated using Puppeteer and saved into the `backups` folder (`config.backupFolder`, can be changed) of an S3 bucket of your choice.
 
-## Usage
+## Usage.
 
 You can get `roam-backup` up and running in just a few minutes! The best part is that **you don't need to deploy anything!** 
 
